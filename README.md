@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido na formação: <a href="https://cursos.alura.com.b
 ## O que foi aprendido?
 - ngIf, ngFor, ngClass
 - injeções de dependências
-- httpClient (completando CRUD...)
+- httpClient (completando um CRUD...)
 - formulário reativos
 - validações nos campos
 - campo de busca
