@@ -32,6 +32,7 @@ export class CriarPensamentosComponent {
         Validators.compose([Validators.required, Validators.minLength(3), minusculoValidator]),
       ],
       modelo: ['modelo1'],
+      favorito : [false]
     });
   }
 
