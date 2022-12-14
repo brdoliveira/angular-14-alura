@@ -4,13 +4,15 @@
       "id": 1,
       "conteudo": "Que bom que vc veio!",
       "autoria": "Bruno",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "oi",
       "autoria": "Eu mesmo",
       "modelo": "modelo2",
-      "id": 2
+      "id": 2,
+      "favorito": false
     }
   ]
 }
